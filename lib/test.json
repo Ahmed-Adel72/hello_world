@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Apple iPhone risk from powerful motorbike vibrations",
+    "description": "Camera performance can \"degrade\" if attached to high-volume, high-power motorbikes, Apple says.",
+    "url": "http://www.bbc.co.uk/news/technology-58507764",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C0D/production/_120531867_motorbike.jpg",
+    "publishedAt": "2021-09-13T12:37:24.7290003Z",
+    "content": "image source, Getty Images\r\nIPhone owners should beware picking up bad vibrations from powerful motorbikes, as they may damage camera systems, Apple has said.\r\nThe technology giant published a warnin… [+1084 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "MTV Awards 2021: More sparks fly on red carpet than on stage",
+    "description": "After a scuffle on the red carpet, the ceremony struggles to generate many big new cultural moments.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-58543114",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D48D/production/_120531445_olivia.jpg",
+    "publishedAt": "2021-09-13T11:37:23.4412413Z",
+    "content": "By Mark SavageBBC music reporter\r\nimage source, Getty Images\r\nimage captionPop newcomer Olivia Rodrigo won three prizes, including song of the year\r\nThe MTV Video Music Awards returned to New York on… [+11257 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Abimael Guzmán: Peru ponders fate of Shining Path leader's body",
+    "description": "Officials fear that if he is buried his gravesite could become a rallying point for extremists.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-58543912",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9289/production/_120531573_mediaitem120531572.jpg",
+    "publishedAt": "2021-09-13T11:22:20.5782309Z",
+    "content": "image captionAbimael Guzmán died in prison on Saturday while serving a life sentence for terrorism and treason\r\nPeruvian officials are expected to decide later on Monday what to do with the body of A… [+2597 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Afghanistan: UN seeks millions in international aid",
+    "description": "It is seeking more than $600m (£434m) in aid following the Taliban takeover last month.",
+    "url": "http://www.bbc.co.uk/news/world-asia-58542451",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B615/production/_120531664_hi070572352.jpg",
+    "publishedAt": "2021-09-13T10:52:21.8856491Z",
+    "content": "image source, Getty Images\r\nimage captionAid organisations have warned there is an urgent need for food and medical supplies\r\nThe United Nations is seeking to raise more than $600m (£434m) in aid for… [+2882 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Canada election: Three voters explain what matters most to them",
+    "description": "Three people tell the BBC what issues are at stake and who they are voting for, as election day nears.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-58523450",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1757A/production/_120501659_microsoftteams-image-12.png",
+    "publishedAt": "2021-09-13T06:52:23.758058Z",
+    "content": "Canadian voters are set to decide the makeup of their next government when they head to the polls on 20 September. \r\nPrime Minister Justin Trudeau called the snap election last month.\r\nOpinion polls … [+8489 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Raducanu: US Open champion celebrated in China for her heritage",
+    "description": "Many in China have been quick to point out the 18-year-old's half-Chinese heritage.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-58541314",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0502/production/_120528210_tv070552709.jpg",
+    "publishedAt": "2021-09-13T05:07:27.7399608Z",
+    "content": "image captionSocial media users in China can't get enough of Emma Raducanu\r\nSocial media users in China are celebrating British tennis star Emma Raducanu - not just for her historic US Open win, but … [+2771 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "North Korea tests new long-range cruise missile",
+    "description": "It shows Pyongyang can still develop new weapons despite food shortages and an economic crisis.",
+    "url": "http://www.bbc.co.uk/news/world-asia-58540915",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1736A/production/_120528059_070574940-2.jpg",
+    "publishedAt": "2021-09-13T02:52:23.5961558Z",
+    "content": "image captionNorth Korean state media released this image of the new cruise missile\r\nNorth Korea has tested a new long-range cruise missile capable of hitting much of Japan, state media said on Monda… [+3539 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Britney Spears announces engagement to Sam Asghari",
+    "description": "The singer, who is fighting a legal battle over her conservatorship, met fiancé Sam Asghari in 2016.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-58540571",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A714/production/_120527724_gettyimages-1163685659.jpg",
+    "publishedAt": "2021-09-13T00:22:21.546038Z",
+    "content": "image source, Getty Images\r\nimage captionThe couple met in 2016\r\nBritney Spears has announced her engagement to her long-term boyfriend, Sam Asghari.\r\nThe singer posted a video of the couple showing … [+1773 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The first hate-crime attack after 9/11",
+    "description": "The story of the first American to be killed in the backlash - a turbaned Sikh man in Arizona.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-58514967",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1593D/production/_120518388_p09vqsz8.jpg",
+    "publishedAt": "2021-09-12T23:52:23.7501382Z",
+    "content": "In the wake of the 9/11 terror attacks, the US saw a sharp rise in hate crimes. The attackers targeted those they believed to be Arab Muslims. \r\nThe innocent victims included Balbir Singh Sodhi, an A… [+352 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "British American Tobacco negotiated bribe for Mugabe, new evidence suggests",
+    "description": "Documents reveal British American Tobacco’s role in bribery and spying in southern Africa.",
+    "url": "http://www.bbc.co.uk/news/world-58517339",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3612/production/_120524831_gettyimages-52446647.jpg",
+    "publishedAt": "2021-09-12T23:37:16.8774269Z",
+    "content": "image source, Getty Images\r\nimage captionRobert Mugabe ruled Zimbabwe for decades\r\nA BBC Panorama investigation has found evidence that suggests one of Britain's biggest companies paid a bribe to the… [+5747 chars]"
+  }
+]
+}
